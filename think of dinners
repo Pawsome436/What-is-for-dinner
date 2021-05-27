@@ -1,0 +1,7 @@
+dinner1 = input('Think of a dinner')
+print('pass to the next person')
+dinner2 = input('think of a dinner')
+print('pass to the next person')
+dinner3 = input('think of a dinner')
+print('pass to the next person')
+print(' ')
