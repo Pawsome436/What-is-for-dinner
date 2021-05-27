@@ -1,0 +1,5 @@
+dinner4 = input('so which is the best?!')
+print('')
+print(dinner4)
+print('ask who said the dinner above')
+print('the person who it was wins!')
